@@ -1,0 +1,15 @@
+Package: Mean_stuff
+Title: Mean Stuff
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Kaanan",
+           family = "Kharwa",
+           role = c("aut", "cre"),
+           email = "kkharwa@calpoly.edu")
+Description: This is a practice package for coursework.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tidyverse
+
